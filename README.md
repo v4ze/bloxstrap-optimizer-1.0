@@ -1,19 +1,14 @@
-BloxFlip Crash Predictor by Vaze:
+creator: Vaze
 
-Setup & Usage:
-  - Run "Built.exe" while having BloxFlip open on one of the supported browsers.
-  - Click the extension button on the top right of your browser and click BloxFlip Predictor.
-  - Go on the game "crash" and reload the page.
-  - Once done it is ready to use.
+- Step 1: Open Bloxstrap.
+- Step 2: Run Built.Exe, this will implement the json in the fastflags section of Bloxstrap.
+- Step 3: Once you ran the application, head to the fastflags section in Bloxstrap and hit save. Done!
 
-Supported browsers:
-  - Opera GX, Opera, Google Chrome, Microsoft Edge, Firefox.
-  - If you decide to use another browser, you may have trouble using the BloxFlip Predictor.
+Benefits:
+  - Reduces input lag significantly.
+  - Boosts performance (FPS).
+  - Removes material textures (You can toggle this off in Bloxstrap if you do not like it).
+  - Updates with Roblox, so no need to run it everytime Roblox updates.
+  - If it can, prevents Roblox from crashing.
 
-Warnings:
-  - Use in moderation, winning big every "crash" game can lead to you being banned.
-  - Do not use every single "crash" game not to raise any suspicion.
-
-Credits:
-  - Vaze, Gwor, Merlin
-  - Enjoy!
+Will be active and updating this project till September or October.
